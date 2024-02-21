@@ -24,9 +24,5 @@ Skills: UI/UX / HTML / CSS / C /  Python / C++ / java / Js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakib-4236&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Shakib-4236/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Shakib-4236)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shakib-4236)  
 
